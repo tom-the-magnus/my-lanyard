@@ -1,7 +1,7 @@
 # Setup
 title:               Tom Magnus
 tagline:             'Technical writings and other fun stuff'
-description:         'Welcome to my blog! This is mostly for exhibiting my technical writings at the moment. 
+description:         'Welcome to my blog! This is mostly for exhibiting my technical writings at the moment.'
 url:                 'https://tom-the-magnus.github.io'
 baseurl:             ''
 paginate:            5
